@@ -1,4 +1,4 @@
-# Song-Recommendation-System-based-on-Moods
+# Mood-Based Song Recommendation System
 
 ## 📌 Overview
 This project builds a **Mood-Based Song Recommendation System** using **Machine Learning**.  
