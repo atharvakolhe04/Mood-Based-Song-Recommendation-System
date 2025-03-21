@@ -19,9 +19,9 @@ to classify songs into different moods:
 - **Detected & handled outliers** in numeric columns  
 - **Visualized distributions & correlations**  
 
-### 2️⃣ Mood Labelling & Feature Engineering
-- **Defined six mood categories** based on song features  
-- **Created new features** like:
+### 2️⃣ Mood Labelling & Feature Engineering (Upcoming)
+- **Defining six mood categories** based on song features  
+- **Creating new features** like:
   - `tempo_category` (Slow, Medium, Fast)  
   - `loudness_category` (Soft, Normal, Loud)  
   - `speechiness_category` (Speech vs Music)  
